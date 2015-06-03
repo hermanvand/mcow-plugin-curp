@@ -1,8 +1,8 @@
 plugin: uu curp
 title: curriculum planner
 description: tool to plan courses and curriculums
-version: 1.0
-date: 23 november 2014
+version: 0.1
+date: 16 januari 2015
 
 ABOUT
 -----
