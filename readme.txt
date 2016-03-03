@@ -101,4 +101,4 @@ This resides in the phonegap directory and contains
 - icons, app icons
 - splash, app splashscreens
 
-The config is currently setup for android and could be easily extended with iOS config
+The config is setup for android and iOS
