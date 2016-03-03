@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="nl.uu.curp" version="0.0.2" android-versionCode="6" ios-CFBundleVersion="6" xmlns="http://www.w3.org/ns/widgets">
+<widget id="nl.dompseler.curp" version="0.0.2" android-versionCode="7" ios-CFBundleVersion="7" xmlns="http://www.w3.org/ns/widgets">
 
     <!-- App Info -->
     <name>Curp</name>
@@ -22,7 +22,7 @@
     <!-- <feature name="debug-server" required="false" /> -->
 
     <!-- App preferences -->
-    <preference name="orientation" value="landscape" /> 
+    <!-- <preference name="orientation" value="landscape" />  -->
     <!-- fix ui --> 
     <preference name="DisallowOverscroll" value="true" /> 
     <!-- splashscreen options --> 
@@ -33,7 +33,7 @@
     <preference name="android-minSdkVersion" value="14"/> //android 4.0
 	<preference name="android-targetSdkVersion" value="19"/> //android 4.4
 	<!-- iOS specific -->
-	<preference name="target-device" value="tablet" />
+	<preference name="target-device" value="universal" />
 	<preference name="deployment-target" value="6.0" />
 	<!-- no funky stuff with the statusbar -->
 	<preference name="StatusBarOverlaysWebView" value="false" />
